@@ -1,0 +1,14 @@
+{
+  "cssImports": {
+    "/Users/yunion/sounddr/app/layout.tsx": [
+      "/Users/yunion/sounddr/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/yunion/sounddr/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/yunion/sounddr/app/page": [
+      "/Users/yunion/sounddr/app/globals.css",
+      "/Users/yunion/sounddr/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
